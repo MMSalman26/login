@@ -67,6 +67,7 @@
   color: aqua;
   border: 2px solid rgb(255, 57, 156);
   border-radius: 13px;
+  outline: none;
 }
 
 .nav-bar ul li a:hover {

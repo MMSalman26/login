@@ -28,6 +28,7 @@
   justify-content: flex-end;
   margin-top: -24px;
   margin-right: 20px;
+  list-style: none;
 }
 
 .header .nav ul li a {
