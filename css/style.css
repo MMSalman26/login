@@ -178,9 +178,16 @@ input::placeholder {
   color: aqua;
 }
 
+@media all and (max-width: 500px) {
+  form {
+    margin-top: -140px;
+  }
+}
+
 @media all and (max-width: 420px) {
   form {
     width: 345px;
+    margin-top: -170px;
   }
 
   .cont input {
